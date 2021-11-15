@@ -97,6 +97,7 @@
   * https://github.com/SwifterSwift/SwifterSwift/pull/766
   * https://github.com/SwifterSwift/SwifterSwift/pull/771
   * https://github.com/SwifterSwift/SwifterSwift/pull/862
+  * https://github.com/SwifterSwift/SwifterSwift/pull/985
 </details>
 <details>
   <summary>krzyzanowskim/CryptoSwift</summary>
