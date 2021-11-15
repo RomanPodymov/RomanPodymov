@@ -69,6 +69,7 @@
   * https://github.com/eddiekaiger/SwiftyAttributes/pull/37
   * https://github.com/eddiekaiger/SwiftyAttributes/pull/40
   * https://github.com/eddiekaiger/SwiftyAttributes/pull/44
+  * https://github.com/eddiekaiger/SwiftyAttributes/pull/52
 </details>
 <details>
   <summary>tristanhimmelman/ObjectMapper</summary>
@@ -107,6 +108,7 @@
 
   * https://github.com/pvzig/SlackKit/pull/163
   * https://github.com/pvzig/SlackKit/pull/166
+  * https://github.com/pvzig/SlackKit/pull/193
 </details>
 <details>
   <summary>mxcl/PromiseKit</summary>
@@ -117,6 +119,8 @@
   * https://github.com/mxcl/PromiseKit/pull/1121
   * https://github.com/mxcl/PromiseKit/pull/1125
   * https://github.com/mxcl/PromiseKit/pull/1171
+  * https://github.com/mxcl/PromiseKit/pull/1211
+  * https://github.com/mxcl/PromiseKit/pull/1269
 </details>
 <details>
   <summary>hackiftekhar/IQKeyboardManager</summary>
@@ -154,6 +158,7 @@
 
   * https://github.com/yonaskolb/XcodeGen/pull/661
   * https://github.com/yonaskolb/XcodeGen/pull/948
+  * https://github.com/yonaskolb/XcodeGen/pull/1107
 </details>
 <details>
   <summary>rubygarage/collection-view-layouts</summary>
@@ -232,6 +237,7 @@
   <summary>vadymmarkov/Fashion</summary>
 
   * https://github.com/vadymmarkov/Fashion/pull/19
+  * https://github.com/vadymmarkov/Fashion/pull/21
 </details>
 <details>
   <summary>airbnb/MagazineLayout</summary>
@@ -242,4 +248,64 @@
   <summary>xmartlabs/Eureka</summary>
 
   * https://github.com/xmartlabs/Eureka/pull/2100
+</details>
+<details>
+  <summary>Nirma/UIFontComplete</summary>
+
+  * https://github.com/Nirma/UIFontComplete/pull/41
+</details>
+<details>
+  <summary>orchetect/SwiftRadix</summary>
+
+  * https://github.com/orchetect/SwiftRadix/pull/4
+</details>
+<details>
+  <summary>forem/DEV-ios</summary>
+
+  * https://github.com/forem/DEV-ios/pull/235
+</details>
+<details>
+  <summary>puliaiev/LispMac</summary>
+
+  * https://github.com/puliaiev/LispMac/pull/12
+</details>
+<details>
+  <summary>Nirma/Default</summary>
+
+  * https://github.com/Nirma/Default/pull/20
+</details>
+<details>
+  <summary>covid19cz/erouska-ios</summary>
+
+  * https://github.com/covid19cz/erouska-ios/pull/201
+</details>
+<details>
+  <summary>gkaimakas/SwiftValidators</summary>
+
+  * https://github.com/gkaimakas/SwiftValidators/pull/26
+</details>
+<details>
+  <summary>tuist/tuist</summary>
+
+  * https://github.com/tuist/tuist/pull/2222
+</details>
+<details>
+  <summary>mixpanel/mixpanel-swift</summary>
+
+  * https://github.com/mixpanel/mixpanel-swift/pull/448
+</details>
+<details>
+  <summary>weijentu/Higher-Order-Function-ObjC</summary>
+
+  * https://github.com/weijentu/Higher-Order-Function-ObjC/pull/2
+</details>
+<details>
+  <summary>Quick/Quick</summary>
+
+  * https://github.com/Quick/Quick/pull/1090
+</details>
+<details>
+  <summary>wickwirew/Runtime</summary>
+
+  * https://github.com/wickwirew/Runtime/pull/99
 </details>
