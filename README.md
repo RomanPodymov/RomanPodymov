@@ -240,6 +240,7 @@
 
   * https://github.com/vadymmarkov/Fashion/pull/19
   * https://github.com/vadymmarkov/Fashion/pull/21
+  * https://github.com/vadymmarkov/Fashion/pull/22
 </details>
 <details>
   <summary>airbnb/MagazineLayout</summary>
