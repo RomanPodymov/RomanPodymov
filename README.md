@@ -18,6 +18,7 @@
   <summary>futuredapp/FuntastyKit</summary>
 
   * https://github.com/futuredapp/FuntastyKit/pull/50
+  * https://github.com/futuredapp/FuntastyKit/pull/97
 </details>
 <details>
   <summary>futuredapp/TFBubbleItUp</summary>
@@ -123,6 +124,7 @@
   * https://github.com/mxcl/PromiseKit/pull/1211
   * https://github.com/mxcl/PromiseKit/pull/1269
   * https://github.com/mxcl/PromiseKit/pull/1276
+  * https://github.com/mxcl/PromiseKit/pull/1283
 </details>
 <details>
   <summary>hackiftekhar/IQKeyboardManager</summary>
