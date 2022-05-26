@@ -202,6 +202,7 @@
 
   * https://github.com/Thomvis/BrightFutures/pull/212
   * https://github.com/Thomvis/BrightFutures/pull/215
+  * https://github.com/Thomvis/BrightFutures/pull/220
 </details>
 <details>
   <summary>yonaskolb/SwagGen</summary>
