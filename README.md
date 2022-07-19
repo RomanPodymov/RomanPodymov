@@ -317,3 +317,8 @@
 
   * https://github.com/wickwirew/Runtime/pull/99
 </details>
+<details>
+  <summary>MessageKit/MessageKit</summary>
+
+  * https://github.com/MessageKit/MessageKit/pull/1722
+</details>
