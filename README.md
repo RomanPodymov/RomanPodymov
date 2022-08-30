@@ -323,4 +323,5 @@
   <summary>MessageKit/MessageKit</summary>
 
   * https://github.com/MessageKit/MessageKit/pull/1722
+  * https://github.com/MessageKit/MessageKit/pull/1736
 </details>
