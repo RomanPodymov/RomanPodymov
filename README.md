@@ -326,3 +326,8 @@
   * https://github.com/MessageKit/MessageKit/pull/1722
   * https://github.com/MessageKit/MessageKit/pull/1736
 </details>
+<details>
+  <summary>novoda/ios-demos</summary>
+
+  * https://github.com/novoda/ios-demos/pull/96
+</details>
