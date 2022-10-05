@@ -86,6 +86,7 @@
   <summary>onevcat/Kingfisher</summary>
 
   * https://github.com/onevcat/Kingfisher/pull/1199
+  * https://github.com/onevcat/Kingfisher/pull/1989
 </details>
 <details>
   <summary>SwifterSwift/SwifterSwift</summary>
