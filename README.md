@@ -333,3 +333,18 @@
 
   * https://github.com/novoda/ios-demos/pull/96
 </details>
+<details>
+  <summary>ignacio-chiazzo/ARKit</summary>
+
+  * https://github.com/ignacio-chiazzo/ARKit/pull/23
+</details>
+<details>
+  <summary>tbrek/qlock</summary>
+
+  * https://github.com/tbrek/qlock/pull/6
+</details>
+<details>
+  <summary>tbrek/BashBar</summary>
+
+  * https://github.com/tbrek/BashBar/pull/22
+</details>
