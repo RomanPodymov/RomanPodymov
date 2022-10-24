@@ -348,3 +348,8 @@
 
   * https://github.com/tbrek/BashBar/pull/22
 </details>
+<details>
+  <summary>podkovyrin/UIViewController-KeyboardAdditions</summary>
+
+  * https://github.com/podkovyrin/UIViewController-KeyboardAdditions/pull/7
+</details>
