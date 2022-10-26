@@ -353,3 +353,8 @@
 
   * https://github.com/podkovyrin/UIViewController-KeyboardAdditions/pull/7
 </details>
+<details>
+  <summary>AsyncSwift/AsyncLocationKit</summary>
+
+  * https://github.com/AsyncSwift/AsyncLocationKit/pull/15
+</details>
