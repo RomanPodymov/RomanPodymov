@@ -253,11 +253,6 @@
   * https://github.com/vadymmarkov/Fashion/pull/22
 </details>
 <details>
-  <summary>airbnb/MagazineLayout</summary>
-
-  * https://github.com/airbnb/MagazineLayout/pull/81
-</details>
-<details>
   <summary>xmartlabs/Eureka</summary>
 
   * https://github.com/xmartlabs/Eureka/pull/2100
