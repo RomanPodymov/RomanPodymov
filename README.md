@@ -24,6 +24,7 @@
   <summary>futuredapp/LocationManager</summary>
 
   * https://github.com/futuredapp/LocationManager/pull/8
+  * https://github.com/futuredapp/LocationManager/pull/9
 </details>
 <details>
   <summary>futuredapp/TFBubbleItUp</summary>
