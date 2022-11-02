@@ -21,6 +21,11 @@
   * https://github.com/futuredapp/FuntastyKit/pull/97
 </details>
 <details>
+  <summary>futuredapp/LocationManager</summary>
+
+  * https://github.com/futuredapp/LocationManager/pull/8
+</details>
+<details>
   <summary>futuredapp/TFBubbleItUp</summary>
 
   * https://github.com/futuredapp/TFBubbleItUp/pull/1
