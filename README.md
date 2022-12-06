@@ -361,6 +361,8 @@
   <summary>AsyncSwift/AsyncLocationKit</summary>
 
   * https://github.com/AsyncSwift/AsyncLocationKit/pull/15
+  * https://github.com/AsyncSwift/AsyncLocationKit/pull/33
+  * https://github.com/AsyncSwift/AsyncLocationKit/pull/34
 </details>
 <details>
   <summary>avito-tech/Marshroute</summary>
