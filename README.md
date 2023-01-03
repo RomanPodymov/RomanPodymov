@@ -369,3 +369,8 @@
 
   * https://github.com/avito-tech/Marshroute/pull/17
 </details>
+<details>
+  <summary>objecthub/swift-numberkit</summary>
+
+  * https://github.com/objecthub/swift-numberkit/pull/14
+</details>
