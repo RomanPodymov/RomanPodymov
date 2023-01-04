@@ -374,3 +374,8 @@
 
   * https://github.com/objecthub/swift-numberkit/pull/14
 </details>
+<details>
+  <summary>Schroefdop/KMMExample</summary>
+
+  * https://github.com/Schroefdop/KMMExample/pull/1
+</details>
