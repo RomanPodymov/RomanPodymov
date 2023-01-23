@@ -140,6 +140,7 @@
   * https://github.com/mxcl/PromiseKit/pull/1286
   * https://github.com/mxcl/PromiseKit/pull/1291
   * https://github.com/mxcl/PromiseKit/pull/1293
+  * https://github.com/mxcl/PromiseKit/pull/1302
 </details>
 <details>
   <summary>hackiftekhar/IQKeyboardManager</summary>
