@@ -142,6 +142,7 @@
   * https://github.com/mxcl/PromiseKit/pull/1293
   * https://github.com/mxcl/PromiseKit/pull/1302
   * https://github.com/mxcl/PromiseKit/pull/1304
+  * https://github.com/mxcl/PromiseKit/pull/1306
 </details>
 <details>
   <summary>hackiftekhar/IQKeyboardManager</summary>
@@ -381,4 +382,9 @@
   <summary>Schroefdop/KMMExample</summary>
 
   * https://github.com/Schroefdop/KMMExample/pull/1
+</details>
+<details>
+  <summary>freshOS/Networking</summary>
+
+  * https://github.com/freshOS/Networking/pull/56
 </details>
