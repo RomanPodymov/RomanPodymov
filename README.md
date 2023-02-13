@@ -143,6 +143,7 @@
   * https://github.com/mxcl/PromiseKit/pull/1302
   * https://github.com/mxcl/PromiseKit/pull/1304
   * https://github.com/mxcl/PromiseKit/pull/1306
+  * https://github.com/mxcl/PromiseKit/pull/1307
 </details>
 <details>
   <summary>hackiftekhar/IQKeyboardManager</summary>
@@ -387,4 +388,9 @@
   <summary>freshOS/Networking</summary>
 
   * https://github.com/freshOS/Networking/pull/56
+</details>
+<details>
+  <summary>futuretap/FTLinearActivityIndicator</summary>
+
+  * https://github.com/futuretap/FTLinearActivityIndicator/pull/17
 </details>
