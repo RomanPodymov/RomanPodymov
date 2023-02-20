@@ -111,6 +111,7 @@
   * https://github.com/SwifterSwift/SwifterSwift/pull/1044
   * https://github.com/SwifterSwift/SwifterSwift/pull/1062
   * https://github.com/SwifterSwift/SwifterSwift/pull/1063
+  * https://github.com/SwifterSwift/SwifterSwift/pull/1076
 </details>
 <details>
   <summary>krzyzanowskim/CryptoSwift</summary>
@@ -393,4 +394,9 @@
   <summary>futuretap/FTLinearActivityIndicator</summary>
 
   * https://github.com/futuretap/FTLinearActivityIndicator/pull/17
+</details>
+<details>
+  <summary>hite/SwiftUI-CSS</summary>
+
+  * https://github.com/hite/SwiftUI-CSS/pull/2
 </details>
