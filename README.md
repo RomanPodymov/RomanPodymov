@@ -77,6 +77,7 @@
   * https://github.com/eddiekaiger/SwiftyAttributes/pull/40
   * https://github.com/eddiekaiger/SwiftyAttributes/pull/44
   * https://github.com/eddiekaiger/SwiftyAttributes/pull/52
+  * https://github.com/eddiekaiger/SwiftyAttributes/pull/53
 </details>
 <details>
   <summary>tristanhimmelman/ObjectMapper</summary>
