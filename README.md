@@ -408,3 +408,13 @@
 
   * https://github.com/AckeeCZ/ACKImagePicker/pull/26
 </details>
+<details>
+  <summary>PromiseKit/CoreLocation</summary>
+
+  * https://github.com/PromiseKit/CoreLocation/pull/37
+</details>
+<details>
+  <summary>pauljohanneskraft/Map</summary>
+
+  * https://github.com/pauljohanneskraft/Map/pull/44
+</details>
