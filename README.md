@@ -418,3 +418,8 @@
 
   * https://github.com/pauljohanneskraft/Map/pull/44
 </details>
+<details>
+  <summary>kimar/KIImagePager</summary>
+
+  * https://github.com/kimar/KIImagePager/pull/67
+</details>
