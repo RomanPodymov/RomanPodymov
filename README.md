@@ -422,4 +422,5 @@
   <summary>kimar/KIImagePager</summary>
 
   * https://github.com/kimar/KIImagePager/pull/67
+  * https://github.com/kimar/KIImagePager/pull/68
 </details>
