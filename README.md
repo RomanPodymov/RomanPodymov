@@ -426,3 +426,13 @@
   * https://github.com/kimar/KIImagePager/pull/67
   * https://github.com/kimar/KIImagePager/pull/68
 </details>
+<details>
+  <summary>xmartlabs/XLForm</summary>
+
+  * https://github.com/xmartlabs/XLForm/pull/1091
+</details>
+<details>
+  <summary>sparrowcode/AlertKit</summary>
+
+  * https://github.com/sparrowcode/AlertKit/pull/46
+</details>
