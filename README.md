@@ -435,4 +435,5 @@
   <summary>sparrowcode/AlertKit</summary>
 
   * https://github.com/sparrowcode/AlertKit/pull/46
+  * https://github.com/sparrowcode/AlertKit/pull/48
 </details>
