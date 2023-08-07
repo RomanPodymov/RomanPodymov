@@ -438,3 +438,8 @@
   * https://github.com/sparrowcode/AlertKit/pull/46
   * https://github.com/sparrowcode/AlertKit/pull/48
 </details>
+<details>
+  <summary>squimer/DatePickerDialog-iOS-Swift</summary>
+
+  * https://github.com/squimer/DatePickerDialog-iOS-Swift/pull/124
+</details>
