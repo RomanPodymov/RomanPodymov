@@ -444,3 +444,8 @@
 
   * https://github.com/squimer/DatePickerDialog-iOS-Swift/pull/124
 </details>
+<details>
+  <summary>Backendless/Swift-SDK</summary>
+
+  * https://github.com/Backendless/Swift-SDK/pull/256
+</details>
