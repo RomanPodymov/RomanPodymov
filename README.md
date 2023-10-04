@@ -276,6 +276,7 @@
 
   * https://github.com/xmartlabs/Eureka/pull/2100
   * https://github.com/xmartlabs/Eureka/pull/2235
+  * https://github.com/xmartlabs/Eureka/pull/2242
 </details>
 <details>
   <summary>Nirma/UIFontComplete</summary>
