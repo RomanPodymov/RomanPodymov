@@ -451,3 +451,18 @@
 
   * https://github.com/Backendless/Swift-SDK/pull/256
 </details>
+<details>
+  <summary>BeauNouvelle/SimpleCheckbox</summary>
+
+  * https://github.com/BeauNouvelle/SimpleCheckbox/pull/40
+</details>
+<details>
+  <summary>kimar/KIImagePager</summary>
+
+  * https://github.com/kimar/KIImagePager/pull/69
+</details>
+<details>
+  <summary>valeriyvan/swift-geometrize</summary>
+
+  * https://github.com/valeriyvan/swift-geometrize/pull/55
+</details>
