@@ -283,6 +283,7 @@
   <summary>Nirma/UIFontComplete</summary>
 
   * https://github.com/Nirma/UIFontComplete/pull/41
+  * https://github.com/Nirma/UIFontComplete/pull/47  
 </details>
 <details>
   <summary>orchetect/SwiftRadix</summary>
@@ -418,6 +419,7 @@
   <summary>PromiseKit/CoreLocation</summary>
 
   * https://github.com/PromiseKit/CoreLocation/pull/37
+  * https://github.com/PromiseKit/CoreLocation/pull/38
 </details>
 <details>
   <summary>pauljohanneskraft/Map</summary>
