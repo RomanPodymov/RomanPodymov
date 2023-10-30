@@ -468,3 +468,8 @@
 
   * https://github.com/valeriyvan/swift-geometrize/pull/55
 </details>
+<details>
+  <summary>nextcloud/talk-ios</summary>
+
+  * https://github.com/nextcloud/talk-ios/pull/1384
+</details>
