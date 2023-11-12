@@ -431,6 +431,7 @@
 
   * https://github.com/kimar/KIImagePager/pull/67
   * https://github.com/kimar/KIImagePager/pull/68
+  * https://github.com/kimar/KIImagePager/pull/69
 </details>
 <details>
   <summary>xmartlabs/XLForm</summary>
@@ -457,11 +458,6 @@
   <summary>BeauNouvelle/SimpleCheckbox</summary>
 
   * https://github.com/BeauNouvelle/SimpleCheckbox/pull/40
-</details>
-<details>
-  <summary>kimar/KIImagePager</summary>
-
-  * https://github.com/kimar/KIImagePager/pull/69
 </details>
 <details>
   <summary>valeriyvan/swift-geometrize</summary>
