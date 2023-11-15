@@ -474,3 +474,8 @@
 
   * https://github.com/aaronpk/Overland-iOS/pull/127
 </details>
+<details>
+  <summary>PromiseKit/Foundation</summary>
+
+  * https://github.com/PromiseKit/Foundation/pull/34
+</details>
