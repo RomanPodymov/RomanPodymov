@@ -479,3 +479,8 @@
 
   * https://github.com/PromiseKit/Foundation/pull/34
 </details>
+<details>
+  <summary>SimformSolutionsPvtLtd/SSCustomTabbar</summary>
+
+  * https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar/pull/36
+</details>
