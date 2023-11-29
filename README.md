@@ -448,6 +448,7 @@
   <summary>squimer/DatePickerDialog-iOS-Swift</summary>
 
   * https://github.com/squimer/DatePickerDialog-iOS-Swift/pull/124
+  * https://github.com/squimer/DatePickerDialog-iOS-Swift/pull/128
 </details>
 <details>
   <summary>Backendless/Swift-SDK</summary>
