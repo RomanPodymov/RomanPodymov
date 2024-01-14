@@ -486,3 +486,8 @@
 
   * https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar/pull/36
 </details>
+<details>
+  <summary>pykaso/Swift-String-Obfuscator</summary>
+
+  * https://github.com/pykaso/Swift-String-Obfuscator/pull/1
+</details>
