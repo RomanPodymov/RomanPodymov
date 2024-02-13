@@ -492,3 +492,8 @@
 
   * https://github.com/pykaso/Swift-String-Obfuscator/pull/1
 </details>
+<details>
+  <summary>PromiseKit/PMKAlamofire</summary>
+
+  * https://github.com/PromiseKit/PMKAlamofire/pull/49
+</details>
