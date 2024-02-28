@@ -495,5 +495,6 @@
 <details>
   <summary>PromiseKit/PMKAlamofire</summary>
 
+  * https://github.com/PromiseKit/PMKAlamofire/pull/48
   * https://github.com/PromiseKit/PMKAlamofire/pull/49
 </details>
