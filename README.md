@@ -499,3 +499,8 @@
   * https://github.com/PromiseKit/PMKAlamofire/pull/48
   * https://github.com/PromiseKit/PMKAlamofire/pull/49
 </details>
+<details>
+  <summary>planetary-social/planetary-ios</summary>
+
+  * https://github.com/planetary-social/planetary-ios/pull/1274
+</details>
