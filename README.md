@@ -504,3 +504,8 @@
 
   * https://github.com/planetary-social/planetary-ios/pull/1274
 </details>
+<details>
+  <summary>mkrd/Swift-BigInt</summary>
+
+  * https://github.com/mkrd/Swift-BigInt/pull/85
+</details>
