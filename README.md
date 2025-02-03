@@ -509,3 +509,8 @@
 
   * https://github.com/mkrd/Swift-BigInt/pull/85
 </details>
+<details>
+  <summary>exyte/Chat</summary>
+
+  * https://github.com/exyte/Chat/pull/130
+</details>
