@@ -514,3 +514,8 @@
 
   * https://github.com/exyte/Chat/pull/130
 </details>
+<details>
+  <summary>johnpatrickmorgan/TCACoordinators</summary>
+
+  * https://github.com/johnpatrickmorgan/TCACoordinators/pull/78
+</details>
