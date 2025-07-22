@@ -192,6 +192,7 @@
   * https://github.com/yonaskolb/XcodeGen/pull/661
   * https://github.com/yonaskolb/XcodeGen/pull/948
   * https://github.com/yonaskolb/XcodeGen/pull/1107
+  * https://github.com/yonaskolb/XcodeGen/pull/1546
 </details>
 <details>
   <summary>rubygarage/collection-view-layouts</summary>
