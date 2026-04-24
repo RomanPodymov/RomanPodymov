@@ -522,6 +522,7 @@
   * https://github.com/johnpatrickmorgan/TCACoordinators/pull/83
   * https://github.com/johnpatrickmorgan/TCACoordinators/pull/85
   * https://github.com/johnpatrickmorgan/TCACoordinators/pull/94
+  * https://github.com/johnpatrickmorgan/TCACoordinators/pull/95
 </details>
 <details>
   <summary>johnpatrickmorgan/FlowStacks</summary>
